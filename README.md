@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria</h1>
 <h3 align="center">I'm a passionate learner from Poland on my way to becoming a Software Engineer!</h3>
 
-- 🔭 I’m currently working on **finishing my HyperionDev bootcamp.**
+- 🔭 I’m currently working on **finishing my HyperionDev Bootcamp.**
 
 - 🌱 I’m currently learning **Python and JavaScript**
 
